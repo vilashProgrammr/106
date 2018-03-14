@@ -5,7 +5,9 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
+	//vilash code
 	
+	print "vilash message";
 }
 // delete condition
 
